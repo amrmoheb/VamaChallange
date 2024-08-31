@@ -1,0 +1,715 @@
+{
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "homepage": "https://www.hbomax.com/zacksnydersjusticeleague",
+      "id": 791373,
+      "original_language": "en",
+      "original_title": "Zack Snyder's Justice League",
+      "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+      "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "production_companies": [
+        {
+          "id": 174,
+          "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 114152,
+          "logo_path": null,
+          "name": "The Stone Quarry",
+          "origin_country": "US"
+        },
+        {
+          "id": 507,
+          "logo_path": "/z7H707qUWigbjHnJDMfj6QITEpb.png",
+          "name": "Atlas Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 103376,
+          "logo_path": "/zIFWe4fwWURazXSjz9tF60ihgbH.png",
+          "name": "Access Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 444,
+          "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+          "name": "Dune Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 128064,
+          "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+          "name": "DC Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2021-03-18",
+      "revenue": 657000000,
+      "runtime": 242,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Zack Snyder's Justice League",
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 880,
+            "known_for_department": "Acting",
+            "name": "Ben Affleck",
+            "original_name": "Ben Affleck",
+            "popularity": 21.946,
+            "profile_path": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
+            "cast_id": 1,
+            "character": "Bruce Wayne / Batman",
+            "credit_id": "60143e42d96c3c00400d318a",
+            "order": 0
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 73968,
+            "known_for_department": "Acting",
+            "name": "Henry Cavill",
+            "original_name": "Henry Cavill",
+            "popularity": 41.702,
+            "profile_path": "/iWdKjMry5Pt7vmxU7bmOQsIUyHa.jpg",
+            "cast_id": 2,
+            "character": "Clark Kent / Superman / Kal-El",
+            "credit_id": "60143e6502842000402ee8a6",
+            "order": 1
+          },
+          {
+            "adult": false,
+            "biography": "Gal Gadot (born: April 30, 1985) is an Israeli actress and model. She was born in Rosh Ha'ayin, Israel, to an Ashkenazi Jewish family (from Poland, Austria, Germany, and Czechoslovakia). She served in the IDF for two years, and won the Miss Israel title in 2004.\n\nGal began modeling in the late 2000s, and made her film debut in the fourth film of the Fast and Furious franchise, Fast & Furious (2009), as Gisele, an associate of the film's lead villain. Her role was expanded in the sequels Fast Five (2011) and Fast & Furious 6 (2013), in which her character was romantically linked to Han Seoul-Oh (Sung Kang). In the films, Gal performed her own stunts. She also appeared in the 2010 films Date Night (2010) and Knight and Day (2010). In early December 2013, Gal was cast as Wonder Woman in the DC Extended Universe.\n\nGal is a motorcycle enthusiast, and owns a black 2006 Ducati Monster-S2R. She has been married to Yaron Versano since September 28, 2008. They have one child.",
+            "birthday": "1985-04-30",
+            "deathday": null,
+            "gender": 1,
+            "homepage": "http://www.galgadot.com",
+            "id": 90633,
+            "imdb_id": "nm2933757",
+            "known_for_department": "Acting",
+            "name": "Gal Gadot",
+            "place_of_birth": "Rosh Ha'ayin, Israel",
+            "popularity": 23.573,
+            "profile_path": "/fysvehTvU6bE3JgxaOTRfvQJzJ4.jpg"
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 117642,
+            "known_for_department": "Acting",
+            "name": "Jason Momoa",
+            "original_name": "Jason Momoa",
+            "popularity": 30.224,
+            "profile_path": "/6dEFBpZH8C8OijsynkSajQT99Pb.jpg",
+            "cast_id": 4,
+            "character": "Arthur Curry / Aquaman",
+            "credit_id": "60143e891511aa003f51148b",
+            "order": 3
+          },
+          {
+            "adult": false,
+            "gender": 3,
+            "id": 132157,
+            "known_for_department": "Acting",
+            "name": "Ezra Miller",
+            "original_name": "Ezra Miller",
+            "popularity": 17.693,
+            "profile_path": "/6wmTpbYpmhthaxzM5ss3377F9IV.jpg",
+            "cast_id": 5,
+            "character": "Barry Allen / The Flash",
+            "credit_id": "60144b64a39d0b003f9d3ed8",
+            "order": 4
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 1313559,
+            "known_for_department": "Acting",
+            "name": "Ray Fisher",
+            "original_name": "Ray Fisher",
+            "popularity": 2.695,
+            "profile_path": "/310snvA05xDOQZDn2fJSp242GHw.jpg",
+            "cast_id": 10,
+            "character": "Victor Stone / Cyborg",
+            "credit_id": "60144c3a5ad76b003e71ced1",
+            "order": 5
+          },
+          {
+            "adult": false,
+            "gender": 1,
+            "id": 9273,
+            "known_for_department": "Acting",
+            "name": "Amy Adams",
+            "original_name": "Amy Adams",
+            "popularity": 19.03,
+            "profile_path": "/bp7PLjL2fHVuLRFsw6ccpGrGjrA.jpg",
+            "cast_id": 6,
+            "character": "Lois Lane",
+            "credit_id": "60144b92d266a2003d0d5e15",
+            "order": 6
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 16940,
+            "known_for_department": "Acting",
+            "name": "Jeremy Irons",
+            "original_name": "Jeremy Irons",
+            "popularity": 22.898,
+            "profile_path": "/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg",
+            "cast_id": 9,
+            "character": "Alfred Pennyworth",
+            "credit_id": "60144c16bf0f6300410b923c",
+            "order": 7
+          },
+          {
+            "adult": false,
+            "gender": 1,
+            "id": 935,
+            "known_for_department": "Acting",
+            "name": "Connie Nielsen",
+            "original_name": "Connie Nielsen",
+            "popularity": 22.751,
+            "profile_path": "/lvQypTfeH2Gn2PTbzq6XkT2PLmn.jpg",
+            "cast_id": 15,
+            "character": "Queen Hippolyta",
+            "credit_id": "60144d61be2d49003ffde515",
+            "order": 8
+          },
+          {
+            "adult": false,
+            "gender": 1,
+            "id": 2882,
+            "known_for_department": "Acting",
+            "name": "Diane Lane",
+            "original_name": "Diane Lane",
+            "popularity": 13.8,
+            "profile_path": "/yFmVATUjhT7kf12CWXnK5l02pJO.jpg",
+            "cast_id": 7,
+            "character": "Martha Kent",
+            "credit_id": "60144bc33e09f3003c3f3de8",
+            "order": 9
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 18999,
+            "known_for_department": "Acting",
+            "name": "J.K. Simmons",
+            "original_name": "J.K. Simmons",
+            "popularity": 29.166,
+            "profile_path": "/7kIiPojgSVNRXb5z0hiijcD5LJ6.jpg",
+            "cast_id": 13,
+            "character": "Commissioner James Gordon",
+            "credit_id": "60144cfa1511aa003e510070",
+            "order": 10
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 8785,
+            "known_for_department": "Acting",
+            "name": "Ciarán Hinds",
+            "original_name": "Ciarán Hinds",
+            "popularity": 15.956,
+            "profile_path": "/fhtHm9SW5YH9AiAeN6Z3vOy2z6u.jpg",
+            "cast_id": 12,
+            "character": "Steppenwolf (voice)",
+            "credit_id": "60144cabdd731b003e553a30",
+            "order": 11
+          },
+          {
+            "adult": false,
+            "gender": 1,
+            "id": 55085,
+            "known_for_department": "Acting",
+            "name": "Amber Heard",
+            "original_name": "Amber Heard",
+            "popularity": 22.163,
+            "profile_path": "/1cb5mGzGB6Sj2JPkWt9W16B19Bf.jpg",
+            "cast_id": 16,
+            "character": "Mera",
+            "credit_id": "60144d899a3c49003ee6d7a9",
+            "order": 12
+          }
+        ],
+        "crew": [
+            {
+              "adult": false,
+              "gender": 2,
+              "id": 15217,
+              "known_for_department": "Directing",
+              "name": "Zack Snyder",
+              "original_name": "Zack Snyder",
+              "popularity": 8.824,
+              "profile_path": "/iD0GDqkvJXDXiNEZej198hjt3Tt.jpg",
+              "cast_id": 380,
+              "character": "Man in Coffee Shop (uncredited)",
+              "credit_id": "605557b2223a8b006c83b748",
+              "order": 122
+            },
+          {
+            "adult": false,
+            "gender": 0,
+            "id": 282,
+            "known_for_department": "Production",
+            "name": "Charles Roven",
+            "original_name": "Charles Roven",
+            "popularity": 1.22,
+            "profile_path": "/4uJLoVstC1CBcArXFOe53N2fDr1.jpg",
+            "credit_id": "60144f0abe2d490040fe9e6f",
+            "department": "Production",
+            "job": "Producer"
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 525,
+            "known_for_department": "Directing",
+            "name": "Christopher Nolan",
+            "original_name": "Christopher Nolan",
+            "popularity": 16.297,
+            "profile_path": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
+            "credit_id": "601461580816c70042848352",
+            "department": "Production",
+            "job": "Executive Producer"
+          },
+          {
+            "adult": false,
+            "gender": 1,
+            "id": 556,
+            "known_for_department": "Production",
+            "name": "Emma Thomas",
+            "original_name": "Emma Thomas",
+            "popularity": 7.14,
+            "profile_path": "/6GemtNCy856iLho6WRsFASxQTAp.jpg",
+            "credit_id": "601461639a3c49003fe6f92a",
+            "department": "Production",
+            "job": "Executive Producer"
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tJgmraUAmVlJPlq72yC76tKDyC4.jpg",
+      "genres": [
+        {
+          "id": 10752,
+          "name": "War"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "homepage": "https://www.1917.movie/",
+      "id": 530915,
+      "imdb_id": "tt8579674",
+      "original_language": "en",
+      "original_title": "1917",
+      "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+      "popularity": 53.847,
+      "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "production_companies": [
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 7,
+          "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+          "name": "DreamWorks Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 7294,
+          "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+          "name": "Reliance Entertainment",
+          "origin_country": "IN"
+        },
+        {
+          "id": 114732,
+          "logo_path": "/tNCbisMxO5mX2X2bOQxHHQZVYnT.png",
+          "name": "New Republic Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 1522,
+          "logo_path": "/8uaoEVgNxFH0R94O53gUiByahVr.png",
+          "name": "Neal Street Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 103476,
+          "logo_path": null,
+          "name": "Mogambo Films",
+          "origin_country": "ES"
+        },
+        {
+          "id": 121685,
+          "logo_path": "/bAO6cpKP9qoqHoDn4oUjWjZ5auq.png",
+          "name": "Amblin Partners",
+          "origin_country": "US"
+        },
+        {
+          "id": 8147,
+          "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+          "name": "Entertainment One",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        },
+        {
+          "iso_3166_1": "ES",
+          "name": "Spain"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2019-12-25",
+      "runtime": 119,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Time is the enemy",
+      "title": "1917",
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 146750,
+            "known_for_department": "Acting",
+            "name": "George MacKay",
+            "original_name": "George MacKay",
+            "popularity": 14.577,
+            "profile_path": "/80IQRdk9FIfkVJQB54Y7rZjNyDj.jpg",
+            "cast_id": 4,
+            "character": "Lance Corporal Schofield",
+            "credit_id": "5bd46f2ac3a36820e901ac22",
+            "order": 0
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 1332971,
+            "known_for_department": "Acting",
+            "name": "Dean-Charles Chapman",
+            "original_name": "Dean-Charles Chapman",
+            "popularity": 7.737,
+            "profile_path": "/sDWP1EZKmzb46Arm8igxpI9siYx.jpg",
+            "cast_id": 5,
+            "character": "Lance Corporal Blake",
+            "credit_id": "5bd46f350e0a2622dd0195dc",
+            "order": 1
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 2983,
+            "known_for_department": "Acting",
+            "name": "Mark Strong",
+            "original_name": "Mark Strong",
+            "popularity": 17.664,
+            "profile_path": "/pw6AvwaBbr44Nje9JQMBBwhchiu.jpg",
+            "cast_id": 13,
+            "character": "Captain Smith",
+            "credit_id": "5cbe2a11c3a36813698745cc",
+            "order": 2
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 125660,
+            "known_for_department": "Acting",
+            "name": "Andrew Scott",
+            "original_name": "Andrew Scott",
+            "popularity": 19.825,
+            "profile_path": "/akbGBP3RI4siNLPr8Pa6YcD2NJt.jpg",
+            "cast_id": 15,
+            "character": "Lieutenant Leslie",
+            "credit_id": "5cbe2a3c92514108d1ff7aed",
+            "order": 3
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 512991,
+            "known_for_department": "Acting",
+            "name": "Richard Madden",
+            "original_name": "Richard Madden",
+            "popularity": 25.142,
+            "profile_path": "/kC7X9LgAtJfpxUBRtVwaVTEXomH.jpg",
+            "cast_id": 14,
+            "character": "Lieutenant Blake",
+            "credit_id": "5cbe2a340e0a2660dcf28afa",
+            "order": 4
+          },
+          {
+            "adult": false,
+            "gender": 1,
+            "id": 2385743,
+            "known_for_department": "Acting",
+            "name": "Claire Duburcq",
+            "original_name": "Claire Duburcq",
+            "popularity": 7.161,
+            "profile_path": "/qS6WwLJb8GlYcIV5Cj16J3RJDE3.jpg",
+            "cast_id": 24,
+            "character": "Lauri",
+            "credit_id": "5d51eba977e1f60017ae5bc6",
+            "order": 5
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 5472,
+            "known_for_department": "Acting",
+            "name": "Colin Firth",
+            "original_name": "Colin Firth",
+            "popularity": 10.357,
+            "profile_path": "/5tfW4Zez6eEVOkJ8JoePGzSFbcd.jpg",
+            "cast_id": 17,
+            "character": "General Erinmore",
+            "credit_id": "5cbe2a57c3a368145881c5d3",
+            "order": 6
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 71580,
+            "known_for_department": "Acting",
+            "name": "Benedict Cumberbatch",
+            "original_name": "Benedict Cumberbatch",
+            "popularity": 34.379,
+            "profile_path": "/fBEucxECxGLKVHBznO0qHtCGiMO.jpg",
+            "cast_id": 16,
+            "character": "Colonel MacKenzie",
+            "credit_id": "5cbe2a450e0a261a55f3f022",
+            "order": 7
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 153,
+            "known_for_department": "Sound",
+            "name": "Thomas Newman",
+            "original_name": "Thomas Newman",
+            "popularity": 8.015,
+            "profile_path": "/j8rIiOSdBjtDL5vji8m5BtChZou.jpg",
+            "credit_id": "5d51ec030102c96f397647f2",
+            "department": "Sound",
+            "job": "Original Music Composer"
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 39,
+            "known_for_department": "Directing",
+            "name": "Sam Mendes",
+            "original_name": "Sam Mendes",
+            "popularity": 3.292,
+            "profile_path": "/5z89X9rB76JDblqMQ52fviwXxAN.jpg",
+            "credit_id": "5b280c93925141088000158f",
+            "department": "Writing",
+            "job": "Screenplay"
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 39,
+            "known_for_department": "Directing",
+            "name": "Sam Mendes",
+            "original_name": "Sam Mendes",
+            "popularity": 3.292,
+            "profile_path": "/5z89X9rB76JDblqMQ52fviwXxAN.jpg",
+            "credit_id": "5b280c7892514108be001432",
+            "department": "Directing",
+            "job": "Director"
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 39,
+            "known_for_department": "Directing",
+            "name": "Sam Mendes",
+            "original_name": "Sam Mendes",
+            "popularity": 3.292,
+            "profile_path": "/5z89X9rB76JDblqMQ52fviwXxAN.jpg",
+            "credit_id": "5c754f6fc3a3684825d35166",
+            "department": "Production",
+            "job": "Producer"
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 151,
+            "known_for_department": "Camera",
+            "name": "Roger Deakins",
+            "original_name": "Roger Deakins",
+            "popularity": 1.093,
+            "profile_path": "/pSCN7CfILlfQrxX43Kgqrx5mBYQ.jpg",
+            "credit_id": "5d51ec12b686b9241298dec0",
+            "department": "Camera",
+            "job": "Director of Photography"
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 151,
+            "known_for_department": "Camera",
+            "name": "Roger Deakins",
+            "original_name": "Roger Deakins",
+            "popularity": 1.093,
+            "profile_path": "/pSCN7CfILlfQrxX43Kgqrx5mBYQ.jpg",
+            "credit_id": "5ec94658eb79c2001ea260fd",
+            "department": "Camera",
+            "job": "Camera Operator"
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 4248,
+            "known_for_department": "Art",
+            "name": "Dennis Gassner",
+            "original_name": "Dennis Gassner",
+            "popularity": 5.466,
+            "profile_path": "/bC6zQ02HEPNzzTFvf0eIqSt8fdO.jpg",
+            "credit_id": "5d51ec1f0102c96f12764588",
+            "department": "Art",
+            "job": "Production Design"
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 3904,
+            "known_for_department": "Editing",
+            "name": "Lee Smith",
+            "original_name": "Lee Smith",
+            "popularity": 1.4,
+            "profile_path": "/zlnK1i7CqdzIFTFqfMsYLyt2Sk8.jpg",
+            "credit_id": "5c9709570e0a264ccebfcafd",
+            "department": "Editing",
+            "job": "Editor"
+          },
+          {
+            "adult": false,
+            "gender": 2,
+            "id": 86213,
+            "known_for_department": "Acting",
+            "name": "Rahul Khanna",
+            "original_name": "Rahul Khanna",
+            "popularity": 5.085,
+            "profile_path": "/eXRnf2aCfpb7gItoWtuIHz4lOEo.jpg",
+            "credit_id": "5ecbe8f8e635710021d0098c",
+            "department": "Visual Effects",
+            "job": "Visual Effects Coordinator"
+          }
+        ]
+      }
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k2twTjSddgLc1oFFHVibfxp2kQV.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        878
+      ],
+      "id": 524434,
+      "original_language": "en",
+      "original_title": "Eternals",
+      "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
+      "popularity": 4469.099,
+      "poster_path": "/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",
+      "release_date": "2021-11-03",
+      "title": "Eternals",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 3880
+    }
+  ]
+}
